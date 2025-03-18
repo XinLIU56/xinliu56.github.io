@@ -1,11 +1,11 @@
 relativeURLs = true
-title = "Gautam Rao"
+title = "Xin Liu"
 theme = "academimal"
 sectionPagesMenu = "main"
 defaultContentLanguage = "en"
 ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 
 [params]
-    shortbio = "Associate Professor of Business and Economics, University of California, Berkeley"
-    logo = "Rao_headshot_berkeley.jpg" 
+    shortbio = "Economics PhD Candidate, Michigan State Unversity"
+    logo = "mypic.jpg" 
     
