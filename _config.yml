@@ -19,7 +19,7 @@ icon: # the emoji used as the favicon (alternatively, provide image name in /ass
 
 url: https://xinliu56.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
 
@@ -145,7 +145,7 @@ newsletter:
 
 collections:
   books:
-    output: true
+    output: sale
   news:
     defaults:
       layout: post
@@ -192,6 +192,13 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _posts/
+  - _pages/publications.md
+  - _pages/books.md
+  - _pages/repositories.md
+  - _pages/profiles.md
+  - _pages/dropdown.md
+  - _pages/blog.md
 keep_files:
   - CNAME
   - .nojekyll
@@ -264,8 +271,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Xin]
+  first_name: [Liu]
 
   style: apa
   locale: en
