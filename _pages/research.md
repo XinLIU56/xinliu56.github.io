@@ -34,9 +34,9 @@ solo-authored, first-year paper
 
 
 ## Publication Prior to PhD
-**[Tsai P-H, Liu Y, Liu X. Collusion, political connection, and tax avoidance in China. Kyklos. 2021; 74: 417–441.](https://doi.org/10.1111/kykl.12265)**
+** Tsai P-H, Liu Y, Liu X. 2021. [Collusion, political connection, and tax avoidance in China.](https://doi.org/10.1111/kykl.12265)** *Kyklos.* 74: 417–441.  
 
-**[Liu, X., Liu, Y. Land lease revenue windfalls and local tax policy in China. International Tax and Public Finance. 2021; 28, 405–433.](https://doi.org/10.1007/s10797-020-09636-z)**
+**Liu, X., Liu, Y. 2021. [Land lease revenue windfalls and local tax policy in China.](https://doi.org/10.1007/s10797-020-09636-z)** *International Tax and Public Finance.* 28: 405–433. 
 
 
 
