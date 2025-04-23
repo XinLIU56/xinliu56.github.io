@@ -9,7 +9,7 @@ display_categories:
 horizontal: false
 ---
 
-## Working Paper
+## ++Working Paper++
 **[Mandatory US Subsidy Disclosures: Early Evidence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5135879)**  
 with [Aneesh Raghunandan](https://www.aneeshraghunandan.com/), [Shivaram Rajgopal](https://www.shivarajgopal.com/), and [Min Jun Song](https://business.columbia.edu/post-grad/people/min-jun-song)
 - Presentations: 2024 Barcelona Accounting Summer Workshop, 2024 Columbia Business School Accounting Reading Group\*, 2025 Hawai’i Accounting Research Conference\*
@@ -25,7 +25,7 @@ with [Kalash Jain](https://kalashjain.me/) and [Shivaram Rajgopal](https://www.s
 solo-authored, based on my second-year paper  
 - Presentations: 2024 Columbia Business School Accounting Seminar\*, 2025 Columbia Accounting Theory Conference (Early Idea Session)\*, Fourteenth Accounting Research Workshop\*
 
-## Selected Work in Progress
+## ++Selected Work in Progress++
 **Performance Pricing, Risk Shifting, and Conservatism**  
 with [Tim Baldenius](https://business.columbia.edu/faculty/people/tim-baldenius)
 
@@ -33,10 +33,10 @@ with [Tim Baldenius](https://business.columbia.edu/faculty/people/tim-baldenius)
 solo-authored, first-year paper  
 
 
-## Publication Prior to PhD
-** Tsai P-H, Liu Y, Liu X. 2021. [Collusion, political connection, and tax avoidance in China.](https://doi.org/10.1111/kykl.12265)** *Kyklos.* 74: 417–441.  
+## ++Publication Prior to PhD++
+Tsai P-H, Liu Y, Liu X. 2021. **[Collusion, political connection, and tax avoidance in China.](https://doi.org/10.1111/kykl.12265)** ***Kyklos.*** 74: 417–441.  
 
-**Liu, X., Liu, Y. 2021. [Land lease revenue windfalls and local tax policy in China.](https://doi.org/10.1007/s10797-020-09636-z)** *International Tax and Public Finance.* 28: 405–433. 
+Liu, X., Liu, Y. 2021. **[Land lease revenue windfalls and local tax policy in China.](https://doi.org/10.1007/s10797-020-09636-z)** ***International Tax and Public Finance.*** 28: 405–433. 
 
 
 
