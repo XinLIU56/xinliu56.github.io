@@ -1,9 +1,8 @@
 ---
 layout: post
-date: 2025-04-10
+date: 2016-01-15 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-
-Got feedback from EML inside MSU Econ Department, and I'm working on my JMP.
+A simple inline announcement with Markdown emoji! :sparkles: :smile:

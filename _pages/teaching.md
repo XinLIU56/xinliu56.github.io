@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description:  
+description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 4
 ---
@@ -19,21 +19,3 @@ nav_order: 4
 
 **Intermediate Microeconomics**, Michigan State University  
 - *Undergrads*: Fall 2024 & Fall 2022 & Fall 2023
-
-**Public Revenue**, Michigan State University 
-- *Undergrads*: Spring 2023 & Spring 2024
-
-**Urban Economics**, Michigan State University 
-- *Undergrads*: Spring 2023 & Spring 2024
-
-**Microeconomics and Public Policy**, Michigan State University 
-- *Undergrads*:Spring 2022
-
-**Intermediate Macroeconomics**, Michigan State University
-- *Undergrads*: Fall 2021
-
-**Public Finance**, Renmin University of China 
-- *Undergrads*: Fall 2020 & Spring 2019
-
-**Local and State Public Finance**, Renmin University of China 
-- *Undergrads*: Fall 2019

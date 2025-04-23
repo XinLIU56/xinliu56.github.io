@@ -2,9 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Xin Liu
+      value: Albert Einstein
+    - name: Date of Birth
+      value: 14th March 1879
     - name: Languages
-      value: English, Chinese
+      value: English, German
 
 - title: Education
   type: time_table
