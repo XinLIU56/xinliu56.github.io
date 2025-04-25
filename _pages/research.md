@@ -9,7 +9,7 @@ display_categories:
 horizontal: false
 ---
 
-## </ins>Working Paper</ins>
+## *Working Paper* 
 
 **Fertility Effects of Parental Early Retirement**
 
@@ -28,7 +28,7 @@ with [Kalash Jain](https://kalashjain.me/) and [Shivaram Rajgopal](https://www.s
 solo-authored, based on my second-year paper  
 - Presentations: 2024 Columbia Business School Accounting Seminar\*, 2025 Columbia Accounting Theory Conference (Early Idea Session)\*, Fourteenth Accounting Research Workshop\*
 
-## <ins>Selected Work in Progress</ins>
+## *Selected Work in Progress* 
 
 **Age Pay Gap and Experience biased Technology**
 
@@ -40,7 +40,7 @@ with [Tim Baldenius](https://business.columbia.edu/faculty/people/tim-baldenius)
 solo-authored, first-year paper   -->
 
 
-## </ins>Publication Prior to PhD</ins>
+##  *Publication Prior to PhD* 
 **Tsai P-H, Liu Y, Liu X. 2021. [Collusion, political connection, and tax avoidance in China.](https://doi.org/10.1111/kykl.12265)** *Kyklos.* 74: 417–441.  
 
 **Liu, X., Liu, Y. 2021. [Land lease revenue windfalls and local tax policy in China.](https://doi.org/10.1007/s10797-020-09636-z)** *International Tax and Public Finance.* 28: 405–433. 
