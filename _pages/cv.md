@@ -1,11 +1,22 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
-title: cv
+title: CV
 nav: true
-nav_order: 5
-cv_pdf: example_pdf.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+nav_order: 2
+cv_pdf: cv_XinLiu_11_2025.pdf # you can also use external links here
+new_tab: true # open in a new tab
 ---
+
+<div style="height: 90vh;">
+  <iframe
+    src="{{ '/assets/pdf/cv_XinLiu_11_2025.pdf#zoom=page-fit' | relative_url }}"
+    width="100%"
+    height="100%"
+    style="border:0;">
+  </iframe>
+</div>
+
+<p>
+  <a href="{{ '/assets/pdf/cv_XinLiu_11_2025.pdf' | relative_url }}">Download the PDF</a>
+</p>
