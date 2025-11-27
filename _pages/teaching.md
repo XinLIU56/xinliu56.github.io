@@ -20,6 +20,10 @@ nav_order: 4
 
 ## Teaching Assistantships
 
+**Law and Economics**, Michigan State University
+
+- _Undergrads_: Fall 2025
+- 
 **Advanced Data Analysis in Economics**, Michigan State University
 
 - _Undergrads_: Spring 2025
