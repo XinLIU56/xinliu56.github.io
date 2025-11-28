@@ -54,7 +54,6 @@ _Kyklos._ 74: 417–441.
 [Land lease revenue windfalls and local tax policy in China.](https://doi.org/10.1007/s10797-020-09636-z)**
 _International Tax and Public Finance._ 28: 405–433.
 
-
 **Liu, Y., X. Liu, Y. Zhang, and K. Wang. 2025, 
 [The Tax Compliance Effect of Banking Competition.](https://ccj.pku.edu.cn/article/info?aid=732600939339845)** _Economic Science._ (in Chinese) 5, 98-122.
 
