@@ -17,8 +17,8 @@ nav_order: 4
 - Check students' feedback on the course EC301-730 here:
   <a href="{{ 'Student_EC301_730Summer.pdf' | prepend: 'assets/pdf/' | relative_url }}" target="_blank" rel="noopener noreferrer">Learning
   Survey EC301-730</a>.
-<br>
-<br>
+
+ 
 ## Teaching Assistantships
 
 **Law and Economics**, Michigan State University
