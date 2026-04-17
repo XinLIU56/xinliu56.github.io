@@ -19,7 +19,7 @@ nav_order: 4
   Survey EC301-730</a>.
 
  
-## Teaching Assistantships
+## Teaching Assistantship
 
 **Introductory to Microeconomics**, Michigan State University
 

@@ -29,4 +29,4 @@ latest_posts:
 Xin is a PhD candidate in <a href='https://econ.msu.edu/'> **Economics at Michigan State
 University**</a> (expected completion: June 2027).
 
-Her research relates to Labor Economics, Public Economics, Family Economics, covers the effects of technological change and demographic shifts, with a particular focus on how labor market is reshaped by automation technology and aging workforce. She also studies impacts of institution on family decisions, like grandparental retirement on fertility, land entitlement on marriage, as well as female labor protection on gender gap.
+Her research relates to Labor Economics, Public Economics, Family Economics, covers the effects of technological change and demographic shifts, with a particular focus on how labor market is reshaped by automation technology and aging workforce. She also studies impacts of institution on family decisions, like grandparental early retirement on fertility, land entitlement on marriage, as well as female labor protection on gender gap.
