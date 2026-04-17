@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 2
-cv_pdf: cv_XinLiu_11_2025.pdf # you can also use external links here
+cv_pdf: CV_XLiu.pdf # you can also use external links here
 new_tab: true # open in a new tab
 ---
 <p>
