@@ -11,7 +11,7 @@ horizontal: false
 
 ## _Working Paper_
 
-**The Race between Aging and Automation**
+**The Race between Aging and Automation: Wage Age Gap and Tasks**
 
 **Fertility Effects of Parental Early Retirement**
 
@@ -47,8 +47,10 @@ solo-authored, first-year paper   -->
 ## _Publication_
 
 **Liu, J., and X. Liu. 2026.
-Spillover of Female Labor Protection: Evidence from China.**
-_Journal of Labor Research._ 47(2).
+[Spillover of Female Labor Protection: Evidence from China.](https://link.springer.com/article/10.1007/s12122-026-09379-6)**_Journal of Labor Research._ 47(2).
+ 
+**Liu, Y., X. Liu, Y. Zhang, and K. Wang. 2025, 
+[The Tax Compliance Effect of Banking Competition.](https://ccj.pku.edu.cn/article/info?aid=732600939339845)** _Economic Science._ (in Chinese) 5, 98-122.
 
 **Tsai, P-H, Y，Liu, X. Liu. 2021.
 [Collusion, Political Connection, and Tax Avoidance in China.](https://doi.org/10.1111/kykl.12265)**
@@ -58,8 +60,7 @@ _Kyklos._ 74: 417–441.
 [Land Lease Revenue Windfalls and Local Tax Policy in China.](https://doi.org/10.1007/s10797-020-09636-z)**
 _International Tax and Public Finance._ 28: 405–433.
 
-**Liu, Y., X. Liu, Y. Zhang, and K. Wang. 2025, 
-[The Tax Compliance Effect of Banking Competition.](https://ccj.pku.edu.cn/article/info?aid=732600939339845)** _Economic Science._ (in Chinese) 5, 98-122.
+ 
 
 <!-- **Internal Uncertainty and External Communication: Evidence from Corporate Violations**
 with [Jonas Heese](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=740159), [Ronghuo Zheng](https://www.mccombs.utexas.edu/faculty-and-research/faculty-directory/ronghuo-zheng/), and [Yuan Zou](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1201306) -->
