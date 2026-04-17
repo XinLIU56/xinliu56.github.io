@@ -7,7 +7,7 @@ subtitle: pronounced as /ʃiːn/ /ljoʊ/.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: pro_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>1486 W Circle Dr,</p> <p>110 Marshall-Adam Hall</p> <p> East Lansing, MI 48824</p>
