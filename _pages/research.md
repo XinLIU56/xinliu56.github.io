@@ -11,11 +11,9 @@ horizontal: false
 
 ## _Working Paper_
 
-**Aging, Divering or Converging? The Race between Demographics and Technology**
+**The Race between Aging and Automation**
 
 **Fertility Effects of Parental Early Retirement**
-
-**Backfire of Female Labor Protection: Evidence from China**, with Jiawen Liu
 
 <!-- **[Mandatory US Subsidy Disclosures: Early Evidence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5135879)**
 with [Aneesh Raghunandan](https://www.aneeshraghunandan.com/), [Shivaram Rajgopal](https://www.shivarajgopal.com/), and [Min Jun Song](https://business.columbia.edu/post-grad/people/min-jun-song)
@@ -33,9 +31,11 @@ with [Kalash Jain](https://kalashjain.me/) and [Shivaram Rajgopal](https://www.s
 
 
 
-**Retirement Slowdown and Fertility Deterioration**
+**Retirement Slowdown and Fertility Deterioration: Evidence from the US**
 
-**Land into Marriage**
+**The Divergence of Goods and Knowledge Flows**, with Jiawen Liu
+
+**Land into Marriage: Effects of Land Decollectivization Reform in China**
 
 <!-- **Performance Pricing, Risk Shifting, and Conservatism**
 with [Tim Baldenius](https://business.columbia.edu/faculty/people/tim-baldenius)
@@ -45,6 +45,10 @@ solo-authored, first-year paper   -->
 <br>
 <br>
 ## _Publication_
+
+**Liu, J., and X. Liu. 2026.
+Spillover of Female Labor Protection: Evidence from China.**
+_Journal of Labor Research._ 47(2).
 
 **Tsai, P-H, Y，Liu, X. Liu. 2021.
 [Collusion, Political Connection, and Tax Avoidance in China.](https://doi.org/10.1111/kykl.12265)**

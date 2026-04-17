@@ -21,6 +21,10 @@ nav_order: 4
  
 ## Teaching Assistantships
 
+**Introductory to Microeconomics**, Michigan State University
+
+- _Undergrads_: Spring 2026
+
 **Law and Economics**, Michigan State University
 
 - _Undergrads_: Fall 2025

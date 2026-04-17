@@ -27,7 +27,6 @@ latest_posts:
 ---
 
 Xin is a PhD candidate in <a href='https://econ.msu.edu/'> **Economics at Michigan State
-University**</a>.
+University**</a> (expected completion: June 2027).
 
-She's interested in labor economics, aging workforce, technological change, as well as
-fertility choices.
+Her fields of interest include **Labor Economics**, **Public Economics**, **Economics of Aging**, and **Demography**.
