@@ -15,6 +15,8 @@ details      { margin-bottom: 1.5em; }
 
 ## _Working Paper_
 
+ 
+
 **The Race between Aging and Automation: Age-biased Technology and Age Pay Gap**
 <details>
 <summary>Abstract</summary>
@@ -43,6 +45,8 @@ Rapid demographic aging is concurrent with declining fertility rates in many cou
 <br>
 ## _Selected Work in Progress_
 
+### _Institutions, Labor Markets, and Family Decisions_
+
 **When Balance Creates Imbalance: Unexpected Effects of Gender Quota in Hiring**
 <details>
 <summary>Highlight</summary>
@@ -51,7 +55,17 @@ I study the 1:1 gender quota in China's civil service recruitment in a staggered
 
 </details>
 
-**Fertility Effects of a Shorter Workweek, with Hailun Wei**
+
+**Fertility Responses to Paid Family Leave,** with Xueshing Wang
+<details>
+<summary>Highlight</summary>
+
+Using the U.S. vital records and exploiting a discountinuity design, we find paid family leave leads to a birth spike and more C-section deliveries within 10-month window after the introduction of this policy.
+ 
+
+</details>
+
+**Fertility Effects of a Shorter Workweek,** with Hailun Wei
 <details><summary>Highlight</summary>
 
 We investigate the impacts of a shorter workweek (from 6 days to 5 days), and document job amenities with one day off leading to increasing fertility in the late 1990s of China. 
@@ -59,14 +73,6 @@ We investigate the impacts of a shorter workweek (from 6 days to 5 days), and do
 
 </details>
 
-**The Divergence of Goods and Knowledge Flows: Evidence from Trade War,** with Jiawen Liu
-<details>
-<summary>Highlight</summary>
-
-Exploiting fine-tuned Large Language Models to classify trade and patent records, we observe the declining commodity flows but increasing patent flows related to targeted goods between countries involved in a bilateral trade war. This also shows that physical and intangible flows may operate oppositely in a unilateral trade war.
- 
-
-</details>
 
 **Dual-Track Family After Anti-Corruption Campaign**
 <details>
@@ -85,13 +91,23 @@ Land decollective reform (Household Responsibility System since 1978, HRS hereaf
 
 </details>
 
+### _Technology（Patent Data）and Textual Analysis_
+
+**The Divergence of Goods and Knowledge Flows: Evidence from Trade War,** with Jiawen Liu
+<details>
+<summary>Highlight</summary>
+
+Exploiting fine-tuned Large Language Models to classify trade and patent records, we observe the declining commodity flows but increasing patent flows related to targeted goods between countries involved in a bilateral trade war. This also shows that physical and intangible flows may operate oppositely in a unilateral trade war.
+ 
+
+</details>
 
 <br>
 <br>
 ## _Publication_
 
 **Liu, J., and X. Liu. 2026.
-[Spillover of Female Labor Protection: Evidence from China.](https://link.springer.com/article/10.1007/s12122-026-09379-6)**_Journal of Labor Research._ 47(2).
+[Spillover of Female Labor Protection: Evidence from China.](https://link.springer.com/article/10.1007/s12122-026-09379-6)** _Journal of Labor Research._ 47(2).
  
 **Liu, Y., X. Liu, Y. Zhang, and K. Wang. 2025, 
 [The Tax Compliance Effect of Banking Competition.](https://ccj.pku.edu.cn/article/info?aid=732600939339845)** _Economic Science._ (in Chinese) 5, 98-122.
