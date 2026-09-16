@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-## Teaching Experience
+## Instructorship
 
 **Intermediate Microeconomics**, Michigan State University, Summer 2024
 
@@ -47,7 +47,7 @@ nav_order: 4
 
 **Microeconomics and Public Policy**, Michigan State University
 
-- _Undergrads_:Spring 2022
+- _Undergrads_: Spring 2022
 
 **Intermediate Macroeconomics**, Michigan State University
 

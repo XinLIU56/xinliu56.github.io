@@ -91,13 +91,13 @@ Land decollective reform (Household Responsibility System since 1978, HRS hereaf
 
 </details>
 
-#### _2. Technology（Patent Data）and Textual Analysis_
+#### _2. Technology（Patent Documents）and Textual Analysis_
 
 **The Divergence of Goods and Knowledge Flows: Evidence from Trade War,** with Jiawen Liu
 <details>
 <summary>Highlight</summary>
 
-Exploiting fine-tuned Large Language Models to classify trade and patent records, we observe the declining commodity flows but increasing patent flows related to targeted goods between countries involved in a bilateral trade war. This also shows that physical and intangible flows may operate oppositely in a unilateral trade war.
+Exploiting fine-tuned Language Models to classify trade and patent records, we observe the declining commodity flows but increasing patent flows related to targeted goods between countries involved in a unilateral trade war. In contrast, only the domestic patent numbers related to regulated goods increase in a bilateral trade war where decoupling effects outweigh goods-knowledge substitution effects.
  
 
 </details>
