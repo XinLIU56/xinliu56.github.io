@@ -43,9 +43,9 @@ Rapid demographic aging is concurrent with declining fertility rates in many cou
 
 <br>
 <br>
-## _Selected Work in Progress_
+## _Selected Work in Progress (by Topic)_
 
-### _Institutions, Labor Markets, and Family Decisions_
+#### _1. Institutions, Labor Markets, and Family Decisions_
 
 **When Balance Creates Imbalance: Unexpected Effects of Gender Quota in Hiring**
 <details>
@@ -56,7 +56,7 @@ I study the 1:1 gender quota in China's civil service recruitment in a staggered
 </details>
 
 
-**Fertility Responses to Paid Family Leave,** with Xueshing Wang
+**Fertility Responses to Paid Family Leave,** with Xueshi Wang
 <details>
 <summary>Highlight</summary>
 
@@ -91,7 +91,7 @@ Land decollective reform (Household Responsibility System since 1978, HRS hereaf
 
 </details>
 
-### _Technology（Patent Data）and Textual Analysis_
+#### _2. Technology（Patent Data）and Textual Analysis_
 
 **The Divergence of Goods and Knowledge Flows: Evidence from Trade War,** with Jiawen Liu
 <details>
