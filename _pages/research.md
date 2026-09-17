@@ -65,7 +65,7 @@ Using the U.S. vital records and exploiting a discountinuity design, we find pai
 
 </details>
 
-**Short, Middle, and Long Term Household Effects of a Shorter Workweek,** with Hailun Wei, and Tianli Yang
+**Short, Middle, and Long Term Household Effects of A Shorter Workweek,** with Hailun Wei, and Tianli Yang
 <details><summary>Highlight</summary>
 
 We investigate the impacts of a shorter workweek (from 6 days to 5 days) quasi-experiment, and document job amenities with one day off in 3 sets of differences in difference designs that: (1) in a short term of 1-year window, it increases likehood of getting married and having a newborn per young (i.e., 20-30) female in the late 1990s of China; (2) in a middle term, children (aged 12-14) exposed to this reform increases the probability of compltementing high schools, and teenage (aged 15-17) exposure to this reform increases the probability of completing college; (3) in a longer term, young kids (aged 0-11) exposed to this reform has a higher likelihood to get married and birth by their 30s.
@@ -74,7 +74,7 @@ We investigate the impacts of a shorter workweek (from 6 days to 5 days) quasi-e
 </details>
 
 
-**Dual-Track Family After Anti-Corruption Campaign**
+**Dual-Track Family Crashes After Anti-Corruption Campaigns**
 <details>
 <summary>Highlight</summary>
 
