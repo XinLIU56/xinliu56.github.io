@@ -65,10 +65,10 @@ Using the U.S. vital records and exploiting a discountinuity design, we find pai
 
 </details>
 
-**Fertility Effects of a Shorter Workweek,** with Hailun Wei
+**Short, Middle, and Long Term Household Effects of a Shorter Workweek,** with Hailun Wei, and Tianli Yang
 <details><summary>Highlight</summary>
 
-We investigate the impacts of a shorter workweek (from 6 days to 5 days), and document job amenities with one day off leading to increasing fertility in the late 1990s of China. 
+We investigate the impacts of a shorter workweek (from 6 days to 5 days) quasi-experiment, and document job amenities with one day off in 3 sets of differences in difference designs that: (1) in a short term of 1-year window, it increases likehood of getting married and having a newborn per young (i.e., 20-30) female in the late 1990s of China; (2) in a middle term, children (aged 12-14) exposed to this reform increases the probability of compltementing high schools, and teenage (aged 15-17) exposure to this reform increases the probability of completing college; (3) in a longer term, young kids (aged 0-11) exposed to this reform has a higher likelihood to get married and birth by their 30s.
  
 
 </details>
@@ -87,7 +87,7 @@ The "dual-track in the family", whereby one spouse employed in public sector ena
 <details>
 <summary>Highlight</summary>
 
-Land decollective reform (Household Responsibility System since 1978, HRS hereafter) provides farmers with autonomy over the means of production, and brings in agriculture expansion. However, rare evidence relates  to how it reshapes marriage and family upon this property right reform. With Census data, I find in counties adopted HRS, the marriage rate among females between 16 and 50 increases sharply, mostly driven by those teenage marriage (aged 16-20) and re-marriage (30 and over): marriage serves as a means of gaining access to and using productive resources. 
+Land decollective reform (Household Responsibility System since 1978, HRS hereafter) provides farmers with autonomy over the means of production, and brings in agriculture expansion. However, rare evidence relates  to how it reshapes marriage and family upon this property right reform. With Census data, I find in counties adopted HRS, the marriage rate among females between 16 and 50 increases sharply, mostly driven by those teenage marriage (aged 16-20) and late-marriage (30 and over): marriage serves as a means of gaining access to and using productive resources. 
 
 </details>
 
