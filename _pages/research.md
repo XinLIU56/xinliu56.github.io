@@ -60,7 +60,7 @@ I study the 1:1 gender quota in China's civil service recruitment in a staggered
 <details>
 <summary>Highlight</summary>
 
-Using the U.S. vital records and exploiting a discountinuity design, we find paid family leave leads to a birth spike and more C-section deliveries within 10-month window after the introduction of this policy.
+Using the U.S. vital records and exploiting a discountinuity design, we find paid family leave leads to a spike in birth number, newborn weight, and C-section deliveries within a 10-month window after the introduction of this policy，particularly among underpresented groups.
  
 
 </details>
