@@ -21,7 +21,7 @@ details      { margin-bottom: 1.5em; }
 <details>
 <summary>Abstract</summary>
 
-This paper studies how technological change reshapes the wage disparity between older and younger workers. I construct new occupation-level measures of technology-task exposure by mtaching patent texts to occupation task descriptions using fine-tuned language models. It shows the age pay gap closely tracks non-routine cognitive and interactive tasks where odler workers tend to have a comparative advantage. (to be added)
+Motivated by the concurrence of workforce aging and automation, this paper examines how technological changes reshape the wage gap between older and younger workers. I develop a task-assignment model featuring age-heterogeneous workers, where older workers hold a comparative advantage in non-routine cognitive tasks. The model demonstrates that a positive age-biased technology (i.e., automating routine cognitive tasks) steepens the wage-age profile, whereas a negative age-biased technology (i.e., automating nonroutine cognitive tasks) flattens it. To quantify these mechanisms, I construct a novel occupational-level measure of technology-task exposure by classifying, and matching USPTO patent texts to O*NET task descriptions using a fine-tuned Sentence-BERT model. Estimation reveals that positive age-biased technologies drove the widening age pay gap prior to the mid-2010s, while the emergence of negative age-biased technologies accounts for the gap’s recent compression. These findings provide new insights into how demographics and distinct technological regimes shapes wage inequality, offering policy implications for retirement design and technology regulation.
 
 </details>
 
@@ -38,7 +38,7 @@ This study exploits the eligibility age for early retirement in a regression dis
 <details>
 <summary>Abstract</summary>
 
-Rapid demographic aging is concurrent with declining fertility rates in many countries, but the causality has not been well understood so far. Leveraging variations in historical age structure as Bartick-IV for local retirement flow, and birth outcomes from vital records over period 1989-2023, the study finds no evidence that the less newborns are in commuting zones with fewer older workers retire. However, it finds less mothers with college degrees, more mothers are unmarried, having a history of smoking and alcohol using, with less weight gains during pregnancy, and higher infant mortality rate. This suggests that the retirement slowdown has contributed to worse health outcomes of newborns and mothers. 
+Rapid demographic aging is concurrent with declining fertility rates in many countries, but the causality has not been well understood so far. Leveraging variations in historical age structure as Bartick-IV for local retirement flow, and birth outcomes from vital records over period 1989-2023, the study finds no evidence that the less newborns are in commuting zones with fewer older workers retiring. However, it finds less mothers with college degrees, more mothers are unmarried, and older. This suggests that the retirement slowdown has delayed, or even redistribute younger generation's birth. 
 </details>
 
 <br>
@@ -60,7 +60,7 @@ I study the 1:1 gender quota in China's civil service recruitment in a staggered
 <details>
 <summary>Highlight</summary>
 
-Using the U.S. vital records and exploiting a discountinuity design, we find paid family leave leads to a spike in birth number, newborn weight, and C-section deliveries within a 10-month window after the introduction of this policy，particularly among underpresented groups.
+Using the U.S. vital records and exploiting a discountinuity design, we find paid family leave leads to a spike in birth number, and C-section deliveries within a 10-month window after the introduction of this policy，particularly among underpresented groups.
  
 
 </details>
