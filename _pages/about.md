@@ -7,7 +7,7 @@ subtitle: pronounced as /ʃiːn/ /ljoʊ/.
 
 profile:
   align: right
-  image: pro_pic.png
+  image: Wechat.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> </p>
