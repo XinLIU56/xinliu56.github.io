@@ -17,7 +17,7 @@ details      { margin-bottom: 1.5em; }
 
  
 
-**The Race between Aging and Automation: Age-biased Technology and Age Pay Gap**[JMP Draft(pdf)](/assets/pdf/JMP_XLiu_website.pdf)  
+[**The Race between Aging and Automation: Age-biased Technology and Age Pay Gap**] (JMP) (/assets/pdf/JMP_XLiu_website.pdf)  
  
 <details>
 <summary>Abstract</summary>
@@ -27,7 +27,7 @@ Motivated by the concurrence of workforce aging and automation, this paper exami
 </details>
 
 
-**Fertility Effects of Parental Early Retirement**[Draft(pdf)](/assets/pdf/EarlyRetire_Fertility_XLiu.pdf) 
+[**Fertility Effects of Parental Early Retirement** ](/assets/pdf/EarlyRetire_Fertility_XLiu.pdf) 
 <details>
 <summary>Abstract</summary>
 
@@ -37,7 +37,7 @@ This study exploits the eligibility age for early retirement in a regression dis
 
  
 
-**The Health Effects of Paid Family Leave** joint work with X. Wang [Draft(pdf)](/assets/pdf/PFL_JPubE.pdf) 
+[**The Health Effects of Paid Family Leave** joint work with X. Wang](/assets/pdf/PFL_JPubE.pdf) 
 <details>
 <summary>Abstract</summary>
 
