@@ -17,7 +17,8 @@ details      { margin-bottom: 1.5em; }
 
  
 
-**The Race between Aging and Automation: Age-biased Technology and Age Pay Gap**[JMP Draft(pdf)](assets/pdf/JMP_XLiu_website.pdf) 
+**The Race between Aging and Automation: Age-biased Technology and Age Pay Gap**[JMP Draft(pdf)](/assets/pdf/JMP_XLiu_website.pdf)  
+ 
 <details>
 <summary>Abstract</summary>
 
@@ -26,7 +27,7 @@ Motivated by the concurrence of workforce aging and automation, this paper exami
 </details>
 
 
-**Fertility Effects of Parental Early Retirement**[Draft(pdf)](assets/pdf/EarlyRetire_Fertility_XLiu.pdf) 
+**Fertility Effects of Parental Early Retirement**[Draft(pdf)](/assets/pdf/EarlyRetire_Fertility_XLiu.pdf) 
 <details>
 <summary>Abstract</summary>
 
@@ -34,15 +35,9 @@ This study exploits the eligibility age for early retirement in a regression dis
 
 </details>
 
-**Retirement Slowdown and Fertility Decline: Evidence from the U.S.** (coming soon)
-<details>
-<summary>Abstract</summary>
+ 
 
-Rapid demographic aging is concurrent with declining fertility rates in many countries, but the causality has not been well understood so far. Leveraging variations in historical age structure as Bartick-IV for local retirement flow, and birth outcomes from vital records over period 1989-2023, the study finds no evidence that the less newborns are in commuting zones with fewer older workers retiring. However, it finds less mothers with college degrees, more older mothers. This suggests that the retirement slowdown has delayed, or even redistribute younger generation's birth. 
-</details>
-
-
-**The Health Effects of Paid Family Leave** joint work with X. Wang [Draft(pdf)](assets/pdf/PFL_JPubE.pdf) 
+**The Health Effects of Paid Family Leave** joint work with X. Wang [Draft(pdf)](/assets/pdf/PFL_JPubE.pdf) 
 <details>
 <summary>Abstract</summary>
 
@@ -55,6 +50,14 @@ This paper examines the effects of New Jersey's Paid Family Leave (NJ-PFL) progr
 ## _Selected Work in Progress (by Topic)_
 
 #### _1. Institutions, Labor Markets, and Family Decisions_
+
+**Retirement Slowdown and Fertility Decline: Evidence from the U.S.** (draft coming soon)
+<details>
+<summary>Abstract</summary>
+
+Rapid demographic aging is concurrent with declining fertility rates in many countries, but the causality has not been well understood so far. Leveraging variations in historical age structure as Bartick-IV for local retirement flow, and birth outcomes from vital records over period 1989-2023, the study finds no evidence that the less newborns are in commuting zones with fewer older workers retiring. However, it finds less mothers with college degrees, more older mothers. This suggests that the retirement slowdown has delayed, or even redistribute younger generation's birth. 
+</details>
+
 
 **When Balance Creates Imbalance: Unexpected Effects of Gender Quota in Hiring**
 <details>
