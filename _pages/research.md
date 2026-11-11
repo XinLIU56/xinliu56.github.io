@@ -17,16 +17,16 @@ details      { margin-bottom: 1.5em; }
 
  
 
-**The Race between Aging and Automation: Age-biased Technology and Age Pay Gap**
+**The Race between Aging and Automation: Age-biased Technology and Age Pay Gap**[JMP Draft(pdf)](assets/pdf/JMP_XLiu_website.pdf) 
 <details>
 <summary>Abstract</summary>
 
-Motivated by the concurrence of workforce aging and automation, this paper examines how technological changes reshape the wage gap between older and younger workers. I develop a task-assignment model featuring age-heterogeneous workers, where older workers hold a comparative advantage in non-routine cognitive tasks. The model demonstrates that a positive age-biased technology (i.e., automating routine cognitive tasks) steepens the wage-age profile, whereas a negative age-biased technology (i.e., automating nonroutine cognitive tasks) flattens it. To quantify these mechanisms, I construct a novel occupational-level measure of technology-task exposure by classifying, and matching USPTO patent texts to O*NET task descriptions using a fine-tuned Sentence-BERT model. Estimation reveals that positive age-biased technologies drove the widening age pay gap prior to the mid-2010s, while the emergence of negative age-biased technologies accounts for the gap’s recent compression. These findings provide new insights into how demographics and distinct technological regimes shapes wage inequality, offering policy implications for retirement design and technology regulation.
+Motivated by the concurrence of workforce aging and automation, this paper examines how technological changes reshape the wage gap between older and younger workers in the U.S. labor market. I document that the U.S. age pay gap expanded continuously until the mid-2010s before experiencing a sharp compression. To explain this age pay gap reversal, I develop a task-assignment model featuring age-heterogeneous workers, where older incumbents hold a comparative advantage in non-routine cognitive tasks. The model distinguishes between Positive Age-Biased Technologies (PABT, e.g., software, robotics, and machines), which automate routine tasks and complement experience, and Negative Age-Biased Technologies (NABT, e.g., artificial intelligence), which directly automate non-routine cognitive tasks. To quantify these mechanisms, I construct a novel occupational technology-task exposure measure by applying a fine-tuned Sentence-BERT model to match patent abstracts with job task descriptions. Micro-level estimates reveal a dual impact: PABT generates a massive wage premium for older workers, whereas NABT imposes severe penalties on their wage growth trajectories. Structural estimation confirms that age pay gap is jointly driven by technological and demographic changes. It further documents that an aging demographic structure amplifies intergenerational wage inequality under PABT but accelerates the gap's compression under the NABT change. These findings provide new insights for flexible retirement design and technology regulation in the context of the ongoing race between demographics and technology.
 
 </details>
 
 
-**Fertility Effects of Parental Early Retirement**
+**Fertility Effects of Parental Early Retirement**[Draft(pdf)](assets/pdf/EarlyRetire_Fertility_XLiu.pdf) 
 <details>
 <summary>Abstract</summary>
 
@@ -34,11 +34,20 @@ This study exploits the eligibility age for early retirement in a regression dis
 
 </details>
 
-**Retirement Slowdown and Fertility Decline: Evidence from the U.S.**
+**Retirement Slowdown and Fertility Decline: Evidence from the U.S.** (coming soon)
 <details>
 <summary>Abstract</summary>
 
-Rapid demographic aging is concurrent with declining fertility rates in many countries, but the causality has not been well understood so far. Leveraging variations in historical age structure as Bartick-IV for local retirement flow, and birth outcomes from vital records over period 1989-2023, the study finds no evidence that the less newborns are in commuting zones with fewer older workers retiring. However, it finds less mothers with college degrees, more mothers are unmarried, and older. This suggests that the retirement slowdown has delayed, or even redistribute younger generation's birth. 
+Rapid demographic aging is concurrent with declining fertility rates in many countries, but the causality has not been well understood so far. Leveraging variations in historical age structure as Bartick-IV for local retirement flow, and birth outcomes from vital records over period 1989-2023, the study finds no evidence that the less newborns are in commuting zones with fewer older workers retiring. However, it finds less mothers with college degrees, more older mothers. This suggests that the retirement slowdown has delayed, or even redistribute younger generation's birth. 
+</details>
+
+
+**The Health Effects of Paid Family Leave** joint work with X. Wang [Draft(pdf)](assets/pdf/PFL_JPubE.pdf) 
+<details>
+<summary>Abstract</summary>
+
+This paper examines the effects of New Jersey's Paid Family Leave (NJ-PFL) program on maternal and infant health and whether these effects vary by race and access to job protection. Using restricted-use natality data from the National Vital Statistics System for 2006--2011, we estimate event-study and difference-in-differences designs comparing New Jersey with neighboring states before and after the program's implementation in 2009. NJ-PFL increased prenatal care utilization by 0.58 visits and reduced preterm delivery by 0.54 percentage points, or 4.2\% relative to the pre-policy mean. Point estimates suggest larger improvements in prenatal care and preterm delivery among non-Hispanic Black mothers, as well as larger reductions in pregnancy-associated hypertension. Estimated benefits are also greater in areas with higher potential job-protection coverage, although the racial and geographic differences are imprecisely estimated under conservative inference. These findings highlight the heterogeneous effects of PFL on maternal and infant health and the potential importance of combining wage replacement with job protection to promote equitable access to leave.
+
 </details>
 
 <br>
@@ -74,7 +83,7 @@ We investigate the impacts of a shorter workweek (from 6 days to 5 days) quasi-e
 </details>
 
 
-**Dual-Track Family Crashes After Anti-Corruption Campaigns**
+**Dual-Track Family Crashes after Anti-Corruption Campaigns**
 <details>
 <summary>Highlight</summary>
 
