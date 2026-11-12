@@ -27,7 +27,7 @@ Motivated by the concurrence of workforce aging and automation, this paper exami
 </details>
 
 
-**[Fertility Effects of Parental Early Retirement](/assets/pdf/EarlyRetire_Fertility_XLiu.pdf) ** 
+[**Fertility Effects of Parental Early Retirement**](/assets/pdf/EarlyRetire_Fertility_XLiu.pdf)   
 <details>
 <summary>Abstract</summary>
 
@@ -37,7 +37,7 @@ This study exploits the eligibility age for early retirement in a regression dis
 
  
 
-**[The Health Effects of Paid Family Leave](/assets/pdf/PFL_JPubE.pdf) ** joint work with X. Wang 
+[**The Health Effects of Paid Family Leave**](/assets/pdf/PFL_JPubE.pdf)  joint work with X. Wang 
 <details>
 <summary>Abstract</summary>
 
