@@ -17,7 +17,7 @@ details      { margin-bottom: 1.5em; }
 
  
 
-[**The Race between Aging and Automation: Age-biased Technology and Age Pay Gap](/assets/pdf/JMP_XLiu_website.pdf)** (JMP)
+[**The Race between Aging and Automation: Age-biased Technology and Age Pay Gap**](/assets/pdf/JMP_XLiu_website.pdf) (JMP)
  
 <details>
 <summary>Abstract</summary>
