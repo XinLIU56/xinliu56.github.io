@@ -34,7 +34,15 @@ This study exploits the eligibility age for early retirement in a regression dis
 
 </details>
 
- 
+
+[**Retirement Slowdown and Fertility Decline: Evidence from the U.S.**](/assets/pdf/RetirementSlowdown_XLiu.pdf) 
+<details>
+<summary>Abstract</summary>
+Older Americans are working longer. This paper asks whether the resulting slowdown in retirement reduces local fertility by limiting young adults’ access to jobs. use a shift-share instrument that predicts retirement flows across commuting zones from their initial age structure. I combine this instrument with the universe of U.S. birth records from 1989 to 2019 and data from the Census and the ACS, and estimate ten-year long differences over 1990–2017. A one-percentage-point increase in the retirement rate raises the general fertility rate by 2.25 births per 1,000 women. Across the interquartile range of retirement rates, this is about 7%. The effect is concentrated among women aged 15–24 and in second and higher-order births, while first births barely respond. Retirement also shortens birth intervals and reduces the share of births with no father listed. Additional births come disproportionately from less-educated mothers, and new fathers are more likely to work in lower-skill occupations. Maternal and infant health outcomes are unaffected. The results suggest that the retirement slowdown has contributed to recent declines in U.S. fertility by tightening labor-market entry for young, less-skilled adults.
+
+
+</details>
+
 
 [**The Health Effects of Paid Family Leave**](/assets/pdf/PFL_JPubE.pdf)  joint work with X. Wang 
 <details>
@@ -49,14 +57,7 @@ This paper examines the effects of New Jersey's Paid Family Leave (NJ-PFL) progr
 ## _Selected Work in Progress (by Topic)_
 
 #### _1. Institutions, Labor Markets, and Family Decisions_
-[**Retirement Slowdown and Fertility Decline: Evidence from the U.S.**](/assets/pdf/RetirementSlowdown_XLiu.pdf) 
-<details>
-<summary>Abstract</summary>
-Older Americans are working longer. This paper asks whether the resulting slowdown in retirement reduces local fertility by limiting young adults’ access to jobs. use a shift-share instrument that predicts retirement flows across commuting zones from their initial age structure. I combine this instrument with the universe of U.S. birth records from 1989 to 2019 and data from the Census and the ACS, and estimate ten-year long differences over 1990–2017. A one-percentage-point increase in the retirement rate raises the general fertility rate by 2.25 births per 1,000 women. Across the interquartile range of retirement rates, this is about 7%. The effect is concentrated among women aged 15–24 and in second and higher-order births, while first births barely respond. Retirement also shortens birth intervals and reduces the share of births with no father listed. Additional births come disproportionately from less-educated mothers, and new fathers are more likely to work in lower-skill occupations. Maternal and infant health outcomes are unaffected. The results suggest that the retirement slowdown has contributed to recent declines in U.S. fertility by tightening labor-market entry for young, less-skilled adults.
-
-
-</details>
-
+ 
 
 **When Balance Creates Imbalance: Unexpected Effects of Gender Quota in Hiring**
 <details>
